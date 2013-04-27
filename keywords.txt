@@ -1,0 +1,29 @@
+####################################################
+# Syntax Coloring Map For the XKeys USB Library
+####################################################
+
+####################################################
+# Datatypes (KEYWORD1)
+####################################################
+
+XkeysReportParser	KEYWORD1
+
+
+####################################################
+# Methods and Functions (KEYWORD2)
+####################################################
+setLED		KEYWORD2
+runLoop	KEYWORD2
+init	KEYWORD2
+
+####################################################
+# Constants and enums (LITERAL1)
+####################################################
+RPT_XKEYS_LEN	LITERAL1
+LED_BLUE	LITERAL1
+LED_RED	LITERAL1
+LED_RPT_LEN	LITERAL1
+LED_OFF	LITERAL1
+LED_ON	LITERAL1
+LED_FLASH	LITERAL1
+

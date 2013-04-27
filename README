@@ -1,0 +1,32 @@
+XkeysRptParser - A project to read Xkeys HID reports on an Arduino and
+generate events when a key is pressed.  Just sub class the
+XkeysReportParser class and implement the OnKeyUp or OnKeyDown methods
+to receive the reports.  This class requires the following Arduino
+library:
+
+https://github.com/felis/USB_Host_Shield_2.0
+
+Download the project files and place them in your Arduino libraries
+folder.
+
+I have created a basic example sketch that you can load and test from
+the Examples menu item in the Arduino editor.
+
+More documentation to come soon.
+
+Copyright (C) 2013 Rick Russell
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; version 2
+of the License.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+
