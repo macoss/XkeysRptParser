@@ -12,6 +12,11 @@ folder.
 I have created a basic example sketch that you can load and test from
 the Examples menu item in the Arduino editor.
 
+I have also created a Gist showing how I used this code in a project to 
+control a Blackmagic Atem with an Xkeys 24.
+
+https://gist.github.com/macoss/5473871
+
 More documentation to come soon.
 
 Copyright (C) 2013 Rick Russell
