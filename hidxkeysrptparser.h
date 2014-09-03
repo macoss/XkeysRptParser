@@ -20,10 +20,10 @@
 
 #include <inttypes.h>
 #include <avr/pgmspace.h>
-#include "avrpins.h"
-#include "max3421e.h"
-#include "usbhost.h"
-#include "usb_ch9.h"
+//#include "avrpins.h"
+//#include "max3421e.h"
+//#include "usbhost.h"
+//#include "usb_ch9.h"
 #include "Usb.h"
 #include "hid.h"
 #include "hiduniversal.h"
@@ -34,10 +34,10 @@
 #include <WProgram.h>
 #endif
 
-#include "printhex.h"
-#include "hexdump.h"
-#include "message.h"
-#include "confdescparser.h"
+//#include "printhex.h"
+//#include "hexdump.h"
+//#include "message.h"
+//#include "confdescparser.h"
 
 
 #define RPT_XKEYS_LEN		6
